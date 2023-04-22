@@ -1,0 +1,70 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Montserrat', serif;
+  }
+
+  .main-section{
+    padding: 20px;
+  }
+
+  .image-container{
+    height: 500px;
+    background-image: url("assets/posillipo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  h1{
+    font-size: 64px;
+    font-family: 'Prata', serif;
+    margin-bottom: 0;
+  }
+
+  h3{
+    font-size: 24px;
+    font-family: 'Prata', serif;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  p{
+    font-weight: 600;
+  }
+
+  h6{
+    padding: 22px;
+    margin-top: 56px;
+    margin-bottom: 0;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(90deg, rgb(232, 172, 68), rgb(157, 255, 219));
+  }
+
+  ul{
+    padding: 0;
+    list-style: none;
+  }
+
+  li{
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 22px;
+    border-bottom: 1px solid #dfdfdf;
+  }
+
+  li a{
+    text-decoration: none;
+    color:rgb(232, 172, 68);
+  }
+
+  footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 16px;
+  }
+
+  footer a{
+    color: white;
+  }

@@ -1,0 +1,11 @@
+.foto-profilo{
+    width: 200px;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+td{
+    width: 300px;
+}
